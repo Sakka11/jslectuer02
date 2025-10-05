@@ -29,7 +29,7 @@ console.log({
     address : {
         province: 'Chonburi',
         contry : 'Thailand'
-    }
+    },
     food: ['KFC', 'Pizza', 'Burger']
 })
 
